@@ -1,0 +1,73 @@
+Tratamento de Erro:
+Qualquer condição de erro ou comportamento inesperado por um programa em execução.
+
+* falha de codificação
+* Falta de recursos disponives
+* Condições Inesperadas por runtime
+
+Erro lógico : Exceção provocada por falha lógica do desenvolvedor
+
+Erro de Tempo de execução: Não estão necessáriamente relacionados á código mal escrito
+como em caso de leitura/ escrita de arquivos
+
+Falha de Sistema: Erros que não podemos lhe dar de forma programática
+Memoria ou espaço insuficiente exemplo.
+
+Importância do tratamento de erros
+* Evitar parada súbita do sistems
+*mensagens amigáveis para usuário final
+*melhor comunicação com desenvovedores para tratar rapido o problema
+
+
+Classe System.Exception
+
+Hierarquia de classes 
+
+
+
+Propritdades e métodos úteis da classe exeption
+
+Propriedades importantes herdadas
+Message: descrição legível para humanos com a causa exceção
+InnerException: Obtém conjunto de exceções superiores ou exceção que levou à exceção atual.
+- analisa as questões que estão acima que deram o erro, a causa do problema.
+StackTrace: rastreamento do caminho até chegar ao erro
+
+Metodos Herdados
+Exception- Exceção base
+GetobectData - Configuração de dados, info e context. Exemplo no banco de dados
+
+info: guarda objeto de dados serializados
+context: contém informação de contexto sobre origem ou destino dos dados a serem transmitidos
+
+GetType: retorna tipo da instância atual em tempo de execução.
+
+ToString: retorna representação da atual exceção em forma de string
+
+
+Tratamento de Exceptions
+
+comandos para capturar e tratar exceptions
+try : Provê mecanismo para capturar exceções que ocorrem durante a execução de certo bloco de código.
+
+finally : bloco util para liberação de recursos.
+
+Comando throw : lança uma exceção em código explicitamente.
+
+Comando when: trata exceções de acordo com requerimentos específicos que você define.
+
+Customizando exceções
+
+- Apesar da Hierarquia de classe existentes com base na classe excepios, é possível criar sua próproa classe de exceção 
+de acordo com a necessidade.
+
+Motivações.
+Quando uma exceção reflete um erro especifico que não foi mapeado por uma classe de exceção existente.
+Quandoa exceção necessita de um tratamento diferenciado.
+
+Procedimentos
+1- definir uma classe que herda de exceptions
+2- definir contrutores da classe
+3- Se necessário, sobrescreva membros cujo comportamento queira modificar
+4- Definir se a exceção será serializável. 
+

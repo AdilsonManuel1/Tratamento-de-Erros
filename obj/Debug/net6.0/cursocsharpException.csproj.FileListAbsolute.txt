@@ -1,0 +1,15 @@
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\cursocsharpException.csproj.AssemblyReference.cache
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\cursocsharpException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\cursocsharpException.AssemblyInfoInputs.cache
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\cursocsharpException.AssemblyInfo.cs
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\cursocsharpException.csproj.CoreCompileInputs.cache
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\bin\Debug\net6.0\cursocsharpException.exe
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\bin\Debug\net6.0\cursocsharpException.deps.json
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\bin\Debug\net6.0\cursocsharpException.runtimeconfig.json
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\bin\Debug\net6.0\cursocsharpException.dll
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\bin\Debug\net6.0\cursocsharpException.pdb
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\cursocsharpException.dll
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\refint\cursocsharpException.dll
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\cursocsharpException.pdb
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\cursocsharpException.genruntimeconfig.cache
+C:\Users\adilson.m\Documents\Documentos\cursocsharpException\obj\Debug\net6.0\ref\cursocsharpException.dll
